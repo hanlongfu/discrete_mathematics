@@ -1,6 +1,9 @@
 # CIT5920_ModuleLinkups
 CIT5920 Modules mapped to useful book and video resources (Linkups)
 
+NOTE: Due to github markdown wikilink incompatibility, 
+it's best to view this on a markdown editor (like Obsidian) that supports wikilinks.
+
 ## Module Linkups
 
 ### All Resources
