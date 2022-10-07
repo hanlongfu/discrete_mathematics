@@ -779,14 +779,12 @@ note-taking system for easier navigation.
 
 [[0109.103 - Discrete Mathematics for Computer Science]] - MATHB_DM4CSDLN
 - 9.2 - Counting Unions and Sequences
-	- Didn’t understand bitstring example (Example 9.3) 💫　
-	- Computer Science Connections - come back to when there is time 🔍
 - 9.3 - Using Functions to Count
 
 [[0109.104 - Schaum’s Outline of Discrete Mathematics]] - MATHB_SOofDM
 - 1.6 - Finite Sets, Counting Principle
 - 5.7 - Inclusion/Exclusion Principle
-- 6.4 - Inclusion/Exclusion Principle Revisited　💫　
+- 6.4 - Inclusion/Exclusion Principle Revisited　
 
 #### 5.4 - The Pigeonhole Principle
 
@@ -807,8 +805,7 @@ note-taking system for easier navigation.
 - 8.3 - The Pigeonhole Principle
 
 [[0109.103 - Discrete Mathematics for Computer Science]] - MATHB_DM4CSDLN
-- 9.3 - Using Functions to Count 🌟
-	- Computer Science Connections - come back to when there is time 🔍
+- 9.3 - Using Functions to Count
 
 [[0109.104 - Schaum’s Outline of Discrete Mathematics]] - MATHB_SOofDM
 - 5.6 - The Pigeonhole Principle
