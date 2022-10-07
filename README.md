@@ -4,6 +4,10 @@ CIT5920 Modules mapped to useful book and video resources (Linkups)
 NOTE: Due to github markdown wikilink incompatibility, 
 it's best to view this on a markdown editor (like Obsidian) that supports wikilinks.
 
+Also, please ignore the numbering of each resource (ie "0109.000 - Discrete Math ...") and the 
+aliases after the resource title (ie "MATHB_DMA"). The numbering and aliases just pertain to my
+note-taking system for easier navigation. 
+
 ## Module Linkups
 
 ### All Resources
