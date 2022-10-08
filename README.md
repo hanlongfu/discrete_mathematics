@@ -869,8 +869,6 @@ note-taking system for easier navigation.
 [[0109.004 - Discrete Mathematics (Chartrand and Zhang)]] - MATHB_DMCZ
 - 4.2 - Additional Examples of Induction Proofs
 
-[[0109.104 - Schaum’s Outline of Discrete Mathematics]] - MATHB_SOofDM
-
 #### 6.3 - Strong Induction
 
 [[0109.000 - Discrete Mathematics and its Applications]] - MATHB_DMA
@@ -890,8 +888,6 @@ note-taking system for easier navigation.
 
 [[0109.103 - Discrete Mathematics for Computer Science]] - MATHB_DM4CSDLN
 - 5.3 - Strong Induction
-
-[[0109.104 - Schaum’s Outline of Discrete Mathematics]] - MATHB_SOofDM
 
 #### 6.4 - Pizza Cutting Recurrence
 - Includes Counting Pizza Pieces with Cross-points
