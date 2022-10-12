@@ -1,4 +1,4 @@
-# CIT5920_ModuleLinkups
+# CIT5920 Module Linkups
 CIT5920 Modules mapped to useful book and video resources (Linkups)
 
 NOTE: Due to github markdown wikilink incompatibility, 
@@ -15,17 +15,20 @@ note-taking system for easier navigation.
 [[0109.000 - Discrete Mathematics and its Applications]] - MATHB_DMA
 - **Title**: Discrete Mathematics and its Applications
 - **Author**: Kenneth H. Rosen
-- **Edition**: 7th
+- **Edition**: 7th  (10th edition isn’t too different)
+- **Solutions:** *Yes*, 7th edition only - in-book and separate pdf (for odd numbered problems only)
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
 - **Title**: Discrete Mathematics with Applications
 - **Author**: Susanna S. Epp
-- **Edition**: 5th
+- **Edition**: 5th (better for reading), 3rd (found solutions)
+- **Solutions**: *Yes,* 3rd edition only - in-book and separate pdf (for almost all problems)
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - **Title**: Mathematics - A Discrete Introduction
 - **Author**: Edward R. Scheinerman
 - **Edition**: 3rd
+- **Solutions**: *Yes*, Provided in book (for all problems)
 
 [[0109.003 - Discrete Mathematics - TrevTutor]] - YTM_DMTT
 - **Playlist 1**: [Discrete Math 1 - TrevTutor (YouTube)](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
@@ -37,19 +40,33 @@ note-taking system for easier navigation.
 - **Title**: Discrete Mathematics
 - **Author**: Gary Chartrand & Ping Zhang
 - **Edition**: 1st
+- **Solutions**:  *Yes*, Provided in book (for odd numbered problems only)
+
+[[0109.006 - Problems on Discrete Mathematics (Parts I-II)]] - MATHB_PoDMP
+- **Title**: Problems on Discrete Mathematics (Parts I-II)
+- **Author**: Chung Chih-Li & Kishan Mehrotra
+- **Edition**: 1
+- **Solutions**: *Yes*, Provided in book (for all problems)
+- **Comments**: AMAZING resource for practice problems
 
 [[0109.103 - Discrete Mathematics for Computer Science]] - MATHB_DM4CSDLN
 - **Title**: Discrete Mathematics for Computer Science
 - **Author**: David Liben-Nowell
 - **Edition**: 1st
+- **Solutions**: None
 
 [[0109.104 - Schaum’s Outline of Discrete Mathematics]] - MATHB_SOofDM
-- **Title**: Discrete Mathematics 
+- **Title**: Discrete Mathematics
 - **Author**: Seymour Lipschutz & Marc Lars Lipson
 - **Edition**: 3rd
+- **Solutions**: Yes, but not the best. Provided in book (for all problems)
 
 [[0110.000 - How to Prove It]] - MATHB_H2PI
-- best read in order, no linkup
+- **Title**: How to Prove It
+- **Author**: Daniel J. Velleman
+- **Edition**: 3rd
+- **Solutions**: For few select problems
+- best read in order, no linkups provided yet
 
 ### Table of Contents
 
@@ -59,6 +76,7 @@ note-taking system for easier navigation.
 - [[#Linkups - Module 4]]
 - [[#Linkups - Module 5]]
 - [[#Linkups - Module 6]]
+- [[#Linkups - Module 7]]
 
 ---
 ### Linkups - Module 1
@@ -69,8 +87,12 @@ note-taking system for easier navigation.
 - 4.2 - Integer Representations and Algorithms
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 9.2 - Possibility Trees and the Multiplication Rule
-- 9.3 - Counting Elements of Disjoint Sets: The Addition Rule
+- 5th edition:
+	- 9.2 - Possibility Trees and the Multiplication Rule
+	- 9.3 - Counting Elements of Disjoint Sets: The Addition Rule
+- 3rd edition
+	- 6.2 - Possibility Trees and the Multiplication Rule
+	- 6.3 - Counting Elements of Disjoint Sets: The Addition Rule
 
 [[0109.003 - Discrete Mathematics - TrevTutor]] - YTM_DMTT
 - [28. Rule of Sum and Rule of Product](https://www.youtube.com/watch?v=8JiWWvEoaoc&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz&index=29)
@@ -95,9 +117,11 @@ note-taking system for easier navigation.
 - same as [[#1 1 - Addition and Multiplication Rules]]
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 4.1 - Direct Proof and Counterexample I: Introduction
-- 4.2 - Direct Proof and Counterexample II: Writing Advice
-	- Not super useful for odd and even, but there’s a small section with proofs using the definitions
+- 5th edition:
+	- 4.1 - Direct Proof and Counterexample I: Introduction
+	- 4.2 - Direct Proof and Counterexample II: Writing Advice
+- 3rd edition:
+	- 3.1 - Direct Proof and Counterexample I: Introduction
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - Chapter 1 - Fundamentals (*entire chapter*)
@@ -118,7 +142,11 @@ note-taking system for easier navigation.
 - 4.3 - Primes and Greatest Common Divisors
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 4.4 - Direct Proof and Counterexample IV: Divisibility
+- 5th edition:
+	- 4.4 - Direct Proof and Counterexample IV: Divisibility
+- 3rd edition:
+	- 3.2 - Direct Proof and Counterexample II: Rational Numbers
+	- 3.3 - Direct Proof and Counterexample III: Divisibility
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - Chapter 7 - Number Theory (*entire chapter*)
@@ -152,7 +180,10 @@ note-taking system for easier navigation.
 - same as [[#1 3 - Divisibility and Primes]]
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- same as [[#1 3 - Divisibility and Primes]]
+- For both 5th/3rd editions:
+	- same as [[#1 3 - Divisibility and Primes]]
+- Also for 3rd edition:
+	- 3.4 - Direct Proof and Counterexample IV: Division into Cases and the Quotient-Remainder Theorem
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - same as [[#1 2 - Odd and Even]]
@@ -175,8 +206,11 @@ note-taking system for easier navigation.
 - 2.1 - Sets
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 1.1 - Variables
-- 1.2 - The Language of Sets
+- 5th edition:
+	- 1.1 - Variables
+	- 1.2 - The Language of Sets
+- 3rd edition:
+	- 5.1 - Basic Definitions of Set Theory
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 2.10 - Sets I: Introduction to Subsets
@@ -204,9 +238,11 @@ note-taking system for easier navigation.
 - 2.6 - Cardinality of Sets
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 6.1 - Set Theory
-- 6.2 - Properties of Sets
-- 6.3 - Disproofs and Algebraic Proofs
+- 5th edition:
+	- 6.1 - Set Theory
+	- 6.2 - Properties of Sets
+- 3rd Edition:
+	- 5.2 - Properties of Sets
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 2.12 - Sets II: Operations
@@ -234,8 +270,13 @@ note-taking system for easier navigation.
 - same as [[#1 5 - Subsets and Set-builder Notation]] and [[#1 6 - Set Operations and Cardinality]]
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- same as [[#1 6 - Set Operations and Cardinality]]
-- 6.4 - Boolean Algebras, Russell’s Paradox, and the Halting Problem (**Optional**)
+- 5th edition:
+	- 6.3 - Disproofs and Algebraic Proofs
+	- 6.4 - Boolean Algebras, Russell’s Paradox, and the Halting Problem
+- 3rd edition:
+	- 5.3 - Disproofs, Algebraic Proofs, and Boolean Algebras
+	- **Optionally**:
+		- 5.4 - Russell’s Paradox and the Halting Problem
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - same as [[#1 5 - Subsets and Set-builder Notation]]
@@ -252,6 +293,21 @@ note-taking system for easier navigation.
 
 [[0109.104 - Schaum’s Outline of Discrete Mathematics]] - MATHB_SOofDM
 - 1.7 - Classes of Sets, Power Sets, Partitions
+
+#### For all sections
+
+[[0109.006 - Problems on Discrete Mathematics (Parts I-II)]] - MATHB_PoDMP
+- Chapter 1 - Sets (*most of chapter*)
+- 6.2 - Divisibility
+- 7.2 - Principles and Typical Problems for Counting
+- Not ready to do any problems yet
+
+[[0110.000 - How to Prove It]] - MATHB_H2PI
+- 1.3 - Variables and Sets
+- 1.4 - Operations and Sets
+- 2.3 - More Operations on Sets
+- 7.1 - Greatest Common Divisors
+- 7.2 - Prime Factorization
 
 ---
 ### Linkups - Module 2
@@ -285,9 +341,6 @@ note-taking system for easier navigation.
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
 - same as [[#1 6 - Set Operations and Cardinality]]
-- **Optionally**
-	- 6.4 - Boolean Algebra’s, Russell’s Paradox, and the Halting Problem
-		- This has a great table of logical equivalences and set properties (Table 6.4.1)
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 2.8 - Lists
@@ -305,7 +358,10 @@ note-taking system for easier navigation.
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
 - same as [[#1 1 - Addition and Multiplication Rules]]
 - **Optionally**:
-	- 9.1 - Introduction to Probability
+	- 5th edition:
+		- 9.1 - Introduction to Probability
+	- 3rd edition:
+		- 6.1 - Introduction
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 5.27 - Permutations
@@ -330,12 +386,20 @@ note-taking system for easier navigation.
 - Chapter 1 (*entire chapter*)
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 2.1 - Logical Form and Logical Equivalence
-- 2.2 - Conditional Statements
-- 2.3 - Valid and Invalid Arguments
+- 5th edition:
+	- 2.1 - Logical Form and Logical Equivalence
+	- 2.2 - Conditional Statements
+	- 2.3 - Valid and Invalid Arguments
+		- **Optionally**:
+			- 2.4 - Application: Digital Logic Circuits
+			- 2.5 - Application: Number Systems and Circuits for Addition
+- 3rd edition:
+	- 1.1 - Logical Form and Logical Equivalence
+	- 1.2 - Conditional Statements
+	- 1.3 - Valid and Invalid Arguments
 	- **Optionally**:
-		- 2.4 - Application: Digital Logic Circuits
-		- 2.5 - Application: Number Systems and Circuits for Addition
+		- 1.4 - Application: Digital Logic Circuits
+		- 1.5 - Application: Number Systems and Circuits for Addition
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 2.11 - Quantifiers
@@ -379,7 +443,10 @@ note-taking system for easier navigation.
 - same as [[#2 3 - Permutations]]
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 9.5 - Counting Subsets of a Set: Combinations
+- 5th edition:
+	- 9.5 - Counting Subsets of a Set: Combinations
+- 3rd Edition:
+	- 6.4 - Counting Subsets of a Set: Combinations
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 2.17 - Binomial Coefficients
@@ -404,7 +471,10 @@ note-taking system for easier navigation.
 - same as [[#2 4 - Logical Structure of Statements]]
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 3.1 - Predicates and Quantied Statements I
+- 5th edition:
+	- 3.1 - Predicates and Quantied Statements I
+- 3rd edition:
+	- 2.1 - Introduction to Predicates and Quantified Statements I
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - same as [[#2 4 - Logical Structure of Statements]]
@@ -419,6 +489,19 @@ note-taking system for easier navigation.
 - 3.3 - Propositional Logic: Some Extensions
 - 3.4 - An Introduction to Predicate Logic
 
+#### For all sections
+
+[[0109.006 - Problems on Discrete Mathematics (Parts I-II)]] - MATHB_PoDMP
+- Chapter 1 - Sets (*entire chapter*)
+	- Ready to do problems now
+- 2.1 - Definitions (Logic)
+- 7.2 - Principles and Typical Problems for Counting
+
+[[0110.000 - How to Prove It]] - MATHB_H2PI
+- Chapter 1 - Sentential Logic (*entire chapter*)
+- 2.1 - Quantifiers
+- 3.1 - Proof Strategies
+
 ---
 ### Linkups - Module 3
 
@@ -430,7 +513,10 @@ note-taking system for easier navigation.
 	- 6.6 - Generating Permutations and Combinations
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 9.6 - r-Combinations with repetition Allowed
+- 5th edition:
+	- 9.6 - r-Combinations with Repetition Allowed
+- 3rd edition:
+	- 6.5 - r-Combinations with Repetition Allowed
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 3.18 - Counting Multisets
@@ -455,10 +541,16 @@ note-taking system for easier navigation.
 - Chapter 1 (*entire chapter*)
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 3.2 - Predicates and Quantified Statements II
-- 3.3 - Statements with Multiple Quantifiers
-- **Optionally**:
-	- 3.4 - Arguments with Quantified Statements
+- 5th edition:
+	- 3.2 - Predicates and Quantified Statements II
+	- 3.3 - Statements with Multiple Quantifiers
+	- **Optionally**:
+		- 3.4 - Arguments with Quantified Statements
+- 3rd edition:
+	- 2.2 - Introduction to Predicates and Quantified Statements II
+	- 2.3 - Statements Containning Multiple Quantifiers
+	- **Optionally**:
+		- 2.4 - Arguments with Quantified Statements
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 2.11 - Quantifiers
@@ -490,8 +582,12 @@ note-taking system for easier navigation.
 - same as [[#3 2 - Negating Statements]]
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 4.7 - Indirect argument: Contradiction and Contraposition
-- 4.8 - Indirect Argument: Two Famous Theorems
+- 5th edition:
+	- 4.7 - Indirect argument: Contradiction and Contraposition
+	- 4.8 - Indirect Argument: Two Famous Theorems
+- 3rd edition:
+	- 3.6 - Indirect Argument: Contradiction and Contraposition
+	- 3.7 - Two Classical Theorems
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 4.20 - Contradiction
@@ -524,12 +620,8 @@ note-taking system for easier navigation.
 - same as [[#3 2 - Negating Statements]]
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 2.1 - Logical Form and Logical Equivalence
-- 2.2 - Conditional Statements
-- 2.3 - Valid and Invalid Arguments
-- **Optionally**:
-	- 2.4 - Application: Digital Logic Circuits
-	- 2.5 - Application: Number Systems and Circuits for Addition
+- same as [[#2 4 - Logical Structure of Statements]]
+
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 1.7 - Boolean Algebra
@@ -578,7 +670,7 @@ note-taking system for easier navigation.
 - 3.7 - Proof by Contradiction
 - **Optionally**:
 	- 3.5 - Counterexamples
-	- 3.6 - Existence Proofs 
+	- 3.6 - Existence Proofs
 
 [[0109.103 - Discrete Mathematics for Computer Science]] - MATHB_DM4CSDLN
 - same as [[#3 3 - Converse and Contrapositive]]
@@ -606,6 +698,17 @@ note-taking system for easier navigation.
 [[0109.104 - Schaum’s Outline of Discrete Mathematics]] - MATHB_SOofDM
 - same as [[#3 1 - Stars and Bars]]
 
+#### For all sections
+
+[[0109.006 - Problems on Discrete Mathematics (Parts I-II)]] - MATHB_PoDMP
+- Chapter 2 - Logic (*entire chapter*)
+	- Ready to do problems now
+- 7.2 - Principles and Typical Problems for Counting
+
+[[0110.000 - How to Prove It]] - MATHB_H2PI
+- Chapter 2 - Quantificational Logic (*entire chapter*)
+- Chapter 3 - Proofs (*entire chapter*)
+
 ---
 ### Linkups - Module 4
 
@@ -615,7 +718,10 @@ note-taking system for easier navigation.
 - 6.4 - Binomial Coefficients and Identities
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 9.7 - Pascal’s Formula and the Binomial Theorem
+- 5th edition:
+	- 9.7 - Pascal’s Formula and the Binomial Theorem
+- 3rd edition:
+	- 6.7 - The Binomial Theorem
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 3.17 - Binomial Coefficients
@@ -633,7 +739,7 @@ note-taking system for easier navigation.
 - 5.3 - Mathematical Functions
 
 #### 4.2 - Combinatorial Proofs
-- Includes: 
+- Includes:
 	- Algebraic Verification of Pascal’s Identity
 	- Counting Two Gender Committees
 
@@ -660,7 +766,8 @@ note-taking system for easier navigation.
 - 2.5 - Cardinality of Sets
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 7.1 - Functions Define on General Sets
+- Both 5th and 3rd editions:
+	- 7.1 - Functions Defined on General Sets
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 5.24 - Functions
@@ -684,7 +791,10 @@ note-taking system for easier navigation.
 - 2.1 - Sets
 
 [[0109.004 - Discrete Mathematics (Chartrand and Zhang)]] - MATHB_DMCZ
-- 5.5 - Cardinalities of Sets
+- 5th edition:
+	- 5.5 - Cardinalities of Sets
+- 3rd edition:
+	- 7.5 - Cardinality with Applications to Computability
 
 [[0109.103 - Discrete Mathematics for Computer Science]] - MATHB_DM4CSDLN
 - 2.1 - Why You Might Care
@@ -700,7 +810,8 @@ note-taking system for easier navigation.
 - same as [[#4 3 - Functions]]
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 7.2 - One-to-One, Onto, and Inverse Functions
+- Both 5th and 3rd editions:
+	- 7.2 - One-to-One, Onto, and Inverse Functions
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - same as [[#4 3 - Functions]]
@@ -720,6 +831,17 @@ note-taking system for easier navigation.
 - 3.3 - One-to-One, Onto, and Invertible Functions
 - 3.4 - Mathematical Functions, Exponential and Logarithmic Functions
 
+#### For all sections
+
+[[0109.006 - Problems on Discrete Mathematics (Parts I-II)]] - MATHB_PoDMP
+- 5.1 (Functions) - Definitions, Theorems, and Comments
+- Chapter 7 - Binomial Theorem and Counting (*entire chapter*)
+	- Ready to do problems now
+
+[[0110.000 - How to Prove It]] - MATHB_H2PI
+- 5.1 - Functions
+- 5.2 - One-to-one and Onto
+
 ---
 ### Linkups - Module 5
 
@@ -729,8 +851,12 @@ note-taking system for easier navigation.
 - 2.3 - Functions
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 7.2 - One-to_one, Onto, and Inverse Functions
-- 7.3 - Composition of functions
+- 5th edition:
+	- 7.2 - One-to-one, Onto, and Inverse Functions
+	- 7.3 - Composition of functions
+- 3rd edition:
+	- 7.2 - One-to-one, Onto, and Inverse Functions
+	- 7.4 - Composition of functions
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 5.24 - Functions
@@ -761,8 +887,12 @@ note-taking system for easier navigation.
 - 8.6 - Applications of Inclusion-Exclusion
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 9.3 - Counting elements of Disjoint Sets: The Addition rule
-- 4.6 - Direct Proof and Counterexample VI: Floor and Ceiling
+- 5th edition:
+	- 9.3 - Counting elements of Disjoint Sets: The Addition rule
+	- 4.6 - Direct Proof and Counterexample VI: Floor and Ceiling
+- 3rd edition:
+	- 6.3 - Counting elements of Disjoint Sets: The Addition rule
+	- 3.5 - Direct Proof and Counterexample V: Floor and Ceiling
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 3.19 - Inclusion-Exclusion
@@ -775,16 +905,18 @@ note-taking system for easier navigation.
 - [II-9. Derangements](https://www.youtube.com/watch?v=BOFWLhH0Igo&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2&index=10)
 
 [[0109.004 - Discrete Mathematics (Chartrand and Zhang)]] - MATHB_DMCZ
-- 8.2 - The Principle of Inclusion-Exclusion 
+- 8.2 - The Principle of Inclusion-Exclusion
 
 [[0109.103 - Discrete Mathematics for Computer Science]] - MATHB_DM4CSDLN
 - 9.2 - Counting Unions and Sequences
+	- Didn’t understand bitstring example (Example 9.3) 💫
+	- Computer Science Connections - come back to when there is time 🔍
 - 9.3 - Using Functions to Count
 
 [[0109.104 - Schaum’s Outline of Discrete Mathematics]] - MATHB_SOofDM
 - 1.6 - Finite Sets, Counting Principle
 - 5.7 - Inclusion/Exclusion Principle
-- 6.4 - Inclusion/Exclusion Principle Revisited　
+- 6.4 - Inclusion/Exclusion Principle Revisited　💫
 
 #### 5.4 - The Pigeonhole Principle
 
@@ -792,7 +924,10 @@ note-taking system for easier navigation.
 - 6.2 - The Pigeonhole Principle
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 9.4 - The Pigeonhole Principle
+- 5th edition:
+	- 9.4 - The Pigeonhole Principle
+- 3rd edition:
+	- 7.3 - Application: The Pigeonhole Principle
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 5.25 - The Pigeonhole Principle
@@ -805,11 +940,12 @@ note-taking system for easier navigation.
 - 8.3 - The Pigeonhole Principle
 
 [[0109.103 - Discrete Mathematics for Computer Science]] - MATHB_DM4CSDLN
-- 9.3 - Using Functions to Count
+- 9.3 - Using Functions to Count 🌟
+	- Computer Science Connections - come back to when there is time 🔍
 
 [[0109.104 - Schaum’s Outline of Discrete Mathematics]] - MATHB_SOofDM
 - 5.6 - The Pigeonhole Principle
-- 6.5 - The Pigeonhole Principle Revisited 
+- 6.5 - The Pigeonhole Principle Revisited
 
 #### 5.5 - Friends and Strangers Theorem
 
@@ -822,6 +958,17 @@ note-taking system for easier navigation.
 [[0109.103 - Discrete Mathematics for Computer Science]] - MATHB_DM4CSDLN
 - not much but on page 438, there’s some stuff on Erdős
 
+#### For all sections
+
+[[0109.006 - Problems on Discrete Mathematics (Parts I-II)]] - MATHB_PoDMP
+- Chapter 5 - Functions (*entire chapter*)
+	- Ready to do problems now
+- Chapter 6 - Integers (*entire chapter*)
+	- Ready to do problems now
+
+[[0110.000 - How to Prove It]] - MATHB_H2PI
+- 5.3 - Inverses of Functions
+
 ---
 ### Linkups - Module 6
 
@@ -831,8 +978,12 @@ note-taking system for easier navigation.
 - 5.1 - Mathematical Induction
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 5.1 - Sequences
-- 5.2 - Mathematical Induction I: proving Formulas
+- 5th edition:
+	- 5.1 - Sequences
+	- 5.2 - Mathematical Induction I: proving Formulas
+- 3rd Edition:
+	- 4.1 - Sequences
+	- 4.2 - Mathematical Induction I
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 4.22 - Induction
@@ -856,7 +1007,10 @@ note-taking system for easier navigation.
 - same as [[#6 1 - Ordinary Induction]]
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 5.3 - Mathematical Induction II: Applications
+- 5th edition:
+	- 5.3 - Mathematical Induction II: Applications
+- 3rd edition:
+	- 4.3 - Mathematical Induction II
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 4.22 - Induction
@@ -875,9 +1029,14 @@ note-taking system for easier navigation.
 - 5.3 - Recursive Definitions and Structural Induction
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 5.4 - Strong Mathematical Induction and the Well-Ordering principle for the Integers
-- **Optionally**:
-	- 5.5 - Application: Correctness of Algorithms
+- 5th edition:
+	- 5.4 - Strong Mathematical Induction and the Well-Ordering principle for the Integers
+	- **Optionally**:
+		- 5.5 - Application: Correctness of Algorithms
+- 3rd edition:
+	- 4.4 - Strong Mathematical Induction and the Well-Ordering principle
+	- **Optionally**:
+		- 4.5 - Application: Correctness of Algorithms
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - same as [[#6 2 - Induction Examples]]
@@ -889,6 +1048,7 @@ note-taking system for easier navigation.
 [[0109.103 - Discrete Mathematics for Computer Science]] - MATHB_DM4CSDLN
 - 5.3 - Strong Induction
 
+
 #### 6.4 - Pizza Cutting Recurrence
 - Includes Counting Pizza Pieces with Cross-points
 
@@ -897,8 +1057,12 @@ note-taking system for easier navigation.
 - 8.1 - Applications of Recurrence Relations
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 5.6 - Defining Sequences Recursively
-- 5.7 - Solving Recurrence Relations by Iteration
+- 5th edition:
+	- 5.6 - Defining Sequences Recursively
+	- 5.7 - Solving Recurrence Relations by Iteration
+- 3rd Edition:
+	- 8.1 - Recursively Defined Sequences
+	- 8.2 - Solving Recurrence Relations by ITeration
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 4.23 - Recurrence Relations
@@ -906,6 +1070,7 @@ note-taking system for easier navigation.
 [[0109.003 - Discrete Mathematics - TrevTutor]] - YTM_DMTT
 - [50. Relations](https://www.youtube.com/watch?v=FI6j5QZNVx0&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz&index=51&t=433s)
 - [51. Relations Examples](https://www.youtube.com/watch?v=qujnPIPjKrA&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz&index=52)
+	- Last example (part ii) was confusing
 - [II-17. Homogeneous Recurrence Relations](https://www.youtube.com/watch?v=7mhvA5L7KqY&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2&index=18)
 - [II-18. Homogeneous Recurrence Relations Examples](https://www.youtube.com/watch?v=Otj2ypYXn0Q&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2&index=19)
 - [II-19. Homogeneous Recurrence Relations Examples 2](https://www.youtube.com/watch?v=H6AIrWRrdr0&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2&index=20)
@@ -931,8 +1096,12 @@ note-taking system for easier navigation.
 	- 5.5 - Program Correctness
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
-- 5.8 - Second-Order Linear Homogeneous Recurrence Relations with Constant Coefficients
-- 5.9 - General Recursive Definitions and Structural Induction
+- 5th edition:
+	- 5.8 - Second-Order Linear Homogeneous Recurrence Relations with Constant Coefficients
+	- 5.9 - General Recursive Definitions and Structural Induction
+- 3rd edition:
+	- 8.3 - Second-Order Linear Homogeneous Recurrence Relations with Constant Coefficients
+	- 8.4 - General Recursive Definitions
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 4.22 - Induction
@@ -951,3 +1120,53 @@ note-taking system for easier navigation.
 [[0109.104 - Schaum’s Outline of Discrete Mathematics]] - MATHB_SOofDM
 - 6.8 - Solving Second-Order Homogeneous Linear Recurrence Relations
 - 6.9 - Solving General Homogeneous Linear Recurrence Relations
+
+#### For all sections
+
+[[0109.006 - Problems on Discrete Mathematics (Parts I-II)]] - MATHB_PoDMP
+- Chapter 3 - Mathematical Induction (*entire chapter*)
+	- Ready to do problems now
+
+[[0110.000 - How to Prove It]] - MATHB_H2PI
+- Chapter 6 - Mathematical Induction (*entire chapter*)
+
+---
+### Linkups - Module 7
+- resources given for entire module, not just each module section (as this module doesn’t jump around like the other modules)
+
+[[0109.000 - Discrete Mathematics and its Applications]] - MATHB_DMA
+- 7.1 - An Introduction to Discrete Probability
+- 7.2 - Probability Theory
+
+[[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
+- 5th edition:
+	- 9.8 - Probability Axioms and Expected Values
+- 3rd edition:
+	- 6.8 - Probability Axioms and Expected Values
+
+[[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
+- 6.30 - Sample Space
+- 6.31 - Events
+
+[[0109.003 - Discrete Mathematics - TrevTutor]] - YTM_DMTT
+- [II-3 - Discrete Probability](https://www.youtube.com/watch?v=FHRuqc0eHdw&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2&index=4)
+- [II-4 - Axioms of Probability](https://www.youtube.com/watch?v=xuv6BCR-iNc&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2&index=5)
+
+[[0109.004 - Discrete Mathematics (Chartrand and Zhang)]] - MATHB_DMCZ
+- 10.1 - The Probability of an Event
+
+[[0109.103 - Discrete Mathematics for Computer Science]] - MATHB_DM4CSDLN
+- 10.1 - Why You Might Care
+- 10.2 - Probability, Outcomes, and Events
+
+[[0109.104 - Schaum’s Outline of Discrete Mathematics]] - MATHB_SOofDM
+- 7.1 - Introduction
+- 7.2 - Sample Space and Events
+- 7.3 - Finite Probability Spaces
+
+#### For all sections
+
+[[0109.006 - Problems on Discrete Mathematics (Parts I-II)]] - MATHB_PoDMP
+- Chapter 9 - Discrete Probability (*most of chapter*)
+- *Comment*: Haven’t learned enough to do the problems yet
+
