@@ -16,7 +16,7 @@ note-taking system for easier navigation.
 - **Title**: Discrete Mathematics and its Applications
 - **Author**: Kenneth H. Rosen
 - **Edition**: 7th  (10th edition isn’t too different)
-- **Solutions:** *Yes*, 7th edition only - in-book and separate pdf (for odd numbered problems only)
+- **Solutions:** *Yes*, 7th edition only - in-book and separate pdf (for all problems)
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
 - **Title**: Discrete Mathematics with Applications
@@ -47,7 +47,7 @@ note-taking system for easier navigation.
 - **Author**: Chung Chih-Li & Kishan Mehrotra
 - **Edition**: 1
 - **Solutions**: *Yes*, Provided in book (for all problems)
-- **Comments**: AMAZING resource for practice problems
+- **Comments**: Hit or miss. A lot of problems with solutions, but may be beyond our level.
 
 [[0109.103 - Discrete Mathematics for Computer Science]] - MATHB_DM4CSDLN
 - **Title**: Discrete Mathematics for Computer Science
@@ -67,6 +67,38 @@ note-taking system for easier navigation.
 - **Edition**: 3rd
 - **Solutions**: For few select problems
 - best read in order, no linkups provided yet
+
+### Personal Tier List (so far)
+
+- **S Tier**
+	- [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
+		- Pros:
+			- Great explanations.
+			- Self-test questions help reinforce material as you’re reading.
+			- Many practice problems of varying difficulty
+		- Cons:
+			- Doesn’t cover everything
+			- Most solutions available (with solution manual), but not all
+	- [[0109.004 - Discrete Mathematics (Chartrand and Zhang)]] - MATHB_DMCZ
+		- Pros:
+			- Covers quite a bit
+			- Great explanations with plenty of examples to go with them
+		- Cons:
+			- Solutions manual difficult to find. Answers/hints to odd-numbered exercises provided but not always to great detail.
+	- [[0109.003 - Discrete Mathematics - TrevTutor]] - YTM_DMTT
+		- Pros:
+			- Amazing explanations
+			- Often in line with course content
+		- Cons:
+			- Does not cover everything
+- **A Tier**
+	- [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
+	- [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
+	- [[0110.000 - How to Prove It]] - MATHB_H2PI
+- **B Tier**
+	- [[0109.103 - Discrete Mathematics for Computer Science]] - MATHB_DM4CSDLN
+	- [[0109.006 - Problems on Discrete Mathematics (Parts I-II)]] - MATHB_PoDMP
+	- [[0109.104 - Schaum’s Outline of Discrete Mathematics]] - MATHB_SOofDM
 
 ### Table of Contents
 
@@ -389,15 +421,15 @@ note-taking system for easier navigation.
 - 5th edition:
 	- 2.1 - Logical Form and Logical Equivalence
 	- 2.2 - Conditional Statements
-	- 2.3 - Valid and Invalid Arguments
 		- **Optionally**:
+			- 2.3 - Valid and Invalid Arguments
 			- 2.4 - Application: Digital Logic Circuits
 			- 2.5 - Application: Number Systems and Circuits for Addition
 - 3rd edition:
 	- 1.1 - Logical Form and Logical Equivalence
 	- 1.2 - Conditional Statements
-	- 1.3 - Valid and Invalid Arguments
 	- **Optionally**:
+		- 1.3 - Valid and Invalid Arguments
 		- 1.4 - Application: Digital Logic Circuits
 		- 1.5 - Application: Number Systems and Circuits for Addition
 
@@ -660,6 +692,7 @@ note-taking system for easier navigation.
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - same as [[#3 3 - Converse and Contrapositive]]
+- 4.21 - Smallest Counterexample
 
 [[0109.003 - Discrete Mathematics - TrevTutor]] - YTM_DMTT
 - [46. Proof by Contradiction](https://www.youtube.com/watch?v=sRDwsfNDXak&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz&index=47)
@@ -748,12 +781,13 @@ note-taking system for easier navigation.
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
 - same as [[#4 1 - Pascal’s Triangle]]
+- 6.6 - The Algebra of Combinations
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 2.12 - Sets II: Operations
 - 2.13 - Combinatorial Proof: Two Examples
-- 2.17 - Binomial Coefficients
-- 2.18 - Counting Multisets
+- 3.17 - Binomial Coefficients
+- 3.18 - Counting Multisets
 
 [[0109.103 - Discrete Mathematics for Computer Science]] - MATHB_DM4CSDLN
 - same as [[#4 1 - Pascal’s Triangle]]
@@ -860,6 +894,7 @@ note-taking system for easier navigation.
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 - 5.24 - Functions
+- 5.26 - Compositions
 
 [[0109.003 - Discrete Mathematics - TrevTutor]] - YTM_DMTT
 - [57. Inverse Function Examples](https://www.youtube.com/watch?v=1cvQhfZGF7Q&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz&index=58)
@@ -1140,8 +1175,10 @@ note-taking system for easier navigation.
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
 - 5th edition:
+	- 9.1 - Introduction to Probability
 	- 9.8 - Probability Axioms and Expected Values
 - 3rd edition:
+	- 6.1 - Introduction to Probability
 	- 6.8 - Probability Axioms and Expected Values
 
 [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
@@ -1155,6 +1192,10 @@ note-taking system for easier navigation.
 [[0109.004 - Discrete Mathematics (Chartrand and Zhang)]] - MATHB_DMCZ
 - 10.1 - The Probability of an Event
 
+[[0109.006 - Problems on Discrete Mathematics (Parts I-II)]] - MATHB_PoDMP
+- Chapter 9 - Discrete Probability (*most of chapter*)
+- *Comment*: Haven’t learned enough to do the problems yet
+
 [[0109.103 - Discrete Mathematics for Computer Science]] - MATHB_DM4CSDLN
 - 10.1 - Why You Might Care
 - 10.2 - Probability, Outcomes, and Events
@@ -1164,9 +1205,39 @@ note-taking system for easier navigation.
 - 7.2 - Sample Space and Events
 - 7.3 - Finite Probability Spaces
 
-#### For all sections
+---
+### Linkups - Module 8
+
+[[0109.000 - Discrete Mathematics and its Applications]] - MATHB_DMA
+- 7.3 - Bayes’ Theorem
+
+[[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
+- 5th edition:
+	- 9.9 - Conditional Probability, Bayes’ Formula, and independent events
+- 3rd Edition:
+	- 6.9 - Conditional Probability, Bayes’ Formula, and independent events
+
+
+[[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
+- 6.32 - Conditional Probability and Independence
+
+
+[[0109.003 - Discrete Mathematics - TrevTutor]] - YTM_DMTT
+- II-5. Conditional Probability
+
+
+[[0109.004 - Discrete Mathematics (Chartrand and Zhang)]] - MATHB_DMCZ
+- 10.2 - Conditional Probability and Independent Events
 
 [[0109.006 - Problems on Discrete Mathematics (Parts I-II)]] - MATHB_PoDMP
-- Chapter 9 - Discrete Probability (*most of chapter*)
-- *Comment*: Haven’t learned enough to do the problems yet
+- 9.2 - Theorems of Probability
+
+
+[[0109.103 - Discrete Mathematics for Computer Science]] - MATHB_DM4CSDLN
+- 10.3 - Independence and Conditional Probability
+
+
+[[0109.104 - Schaum’s Outline of Discrete Mathematics]] - MATHB_SOofDM
+- 7.4 - Conditional Probability
+- 7.5 -  Independent Events
 
