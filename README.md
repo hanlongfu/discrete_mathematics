@@ -109,6 +109,8 @@ note-taking system for easier navigation.
 - [[#Linkups - Module 5]]
 - [[#Linkups - Module 6]]
 - [[#Linkups - Module 7]]
+- [[#Linkups - Module 8]]
+- [[#Linkups - Module 9]]
 
 ---
 ### Linkups - Module 1
@@ -1209,6 +1211,7 @@ note-taking system for easier navigation.
 ### Linkups - Module 8
 
 [[0109.000 - Discrete Mathematics and its Applications]] - MATHB_DMA
+- 7.2 - Probability Theory
 - 7.3 - Bayes’ Theorem
 
 [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
@@ -1241,3 +1244,34 @@ note-taking system for easier navigation.
 - 7.4 - Conditional Probability
 - 7.5 -  Independent Events
 
+---
+### Linkups - Module 9
+
+[[0109.000 - Discrete Mathematics and its Applications]] - MATHB_DMA
+- 7.4 - Expected Value and Variance
+
+[[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
+- 5th edition:
+	- 9.8 - Probability Axioms and Expected Value
+- 3rd edition:
+	- 6.8 - Probability Axioms and Expected Value
+
+[[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
+- 6.33 - Random Variables
+- 6.34 - Expectation
+
+[[0109.003 - Discrete Mathematics - TrevTutor]] - YTM_DMTT
+- None
+
+[[0109.004 - Discrete Mathematics (Chartrand and Zhang)]] - MATHB_DMCZ
+- 10.3 - Random Variables and Expected Values
+
+[[0109.006 - Problems on Discrete Mathematics (Parts I-II)]] - MATHB_PoDMP
+- Chapter 9 - Discrete Probability (*entire chapter*)
+
+[[0109.103 - Discrete Mathematics for Computer Science]] - MATHB_DM4CSDLN
+- 10.4 - Random Variables and Expectation
+- 10.5 - Chapter at a Glance
+
+[[0109.104 - Schaum’s Outline of Discrete Mathematics]] - MATHB_SOofDM
+- 7.7 - Random Variables
