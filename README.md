@@ -68,6 +68,33 @@ note-taking system for easier navigation.
 - **Solutions**: For few select problems
 - best read in order, no linkups provided yet
 
+[[0113.000 - Probability and Random Variables]]
+- **Title**: Probability and Random Variables (MITOCW)
+- **Author**: Prof. Scott Sheffield
+- **Course Number**: 18.600
+- **Link**: [Probability and Random Variables | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/18-600-probability-and-random-variables-fall-2019/)
+- **Solutions**: For exams only. Assignment problems come from [[0113.001 - A First Course on Probability]]
+
+[[0113.001 - A First Course on Probability]]
+- **Title**: A First Course on Probability
+- **Author**: Sheldon Ross
+- **Edition**: 8th
+- **Solutions**: For 7th edition (but 8th edition is mostly same)
+- Best used in conjunction with [[0113.000 - Probability and Random Variables]] which uses the 8th edition of this book.
+
+[[0113.002 - Statistical Inference]]
+- **Title**: Statistical Inference
+- **Authors**:  George Casella & Roger L. Berger
+- **Edition**: 2nd
+- **Solutions**: For all odds (and most evens)
+
+[[0113.003 - Introduction to Probability (Lecture Series)]]
+- **Title**: Introduction to Probability (MITOCW)
+- **Authors**:  John Tsitsiklis
+- **Course Number**: RES.6-012
+- **Link**: [Introduction to Probability | Supplemental Resources | MIT OpenCourseWare](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
+- Lecture videos and notes only
+
 ### Personal Tier List (so far)
 
 - **S Tier**
@@ -92,7 +119,7 @@ note-taking system for easier navigation.
 		- Cons:
 			- Does not cover everything
 - **A Tier**
-	- [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
+	- [[0109.000 - Discrete Mathematics and its Applications]]- MATHB_DMA
 	- [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
 	- [[0110.000 - How to Prove It]] - MATHB_H2PI
 - **B Tier**
@@ -111,6 +138,7 @@ note-taking system for easier navigation.
 - [[#Linkups - Module 7]]
 - [[#Linkups - Module 8]]
 - [[#Linkups - Module 9]]
+- [[#Linkups - Module 10]]
 
 ---
 ### Linkups - Module 1
@@ -1207,6 +1235,40 @@ note-taking system for easier navigation.
 - 7.2 - Sample Space and Events
 - 7.3 - Finite Probability Spaces
 
+[[0113.000 - Probability and Random Variables]]
+- Sessions 1-5
+
+[[0113.001 - A First Course on Probability]]
+- 1 - Combinatorial Analysis (*entire chapter*)
+- 2 - Axioms of Probability (*entire chapter*)
+
+[[0113.002 - Statistical Inference]]
+- 1.1 - Set Theory
+- 1.2 - Basics of Probability Theory
+
+[[0113.003 - Introduction to Probability (Lecture Series)]]
+- [L01.1 Lecture Overview - YouTube](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=2)
+- [L01.2 Sample Space - YouTube](https://www.youtube.com/watch?v=iQ2edOqEQAs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=2)
+- [L01.3 Sample Space Examples - YouTube](https://www.youtube.com/watch?v=__T3eJtjoic&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=3)
+- [L01.4 Probability Axioms - YouTube](https://www.youtube.com/watch?v=pA83XtLeVig&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=4)
+- [L01.5 Simple Properties of Probabilities - YouTube](https://www.youtube.com/watch?v=WTyLg_I1oFY&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=5)
+- [L01.6 More Properties of Probabilities - YouTube](https://www.youtube.com/watch?v=N3I2ZLbh6zQ&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=6)
+- [L01.7 A Discrete Example - YouTube](https://www.youtube.com/watch?v=AsSQdpZdP8U&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=7)
+- [L01.8 A Continuous Example - YouTube](https://www.youtube.com/watch?v=NbYB0fiHoCs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=8)
+- [L01.9 Countable Additivity - YouTube](https://www.youtube.com/watch?v=mUxg3j_h5GM&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=9)
+- [L01.10 Interpretations & Uses of Probabilities - YouTube](https://www.youtube.com/watch?v=uGGTX2ypzKI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=10)
+- [S01.0 Mathematical Background Overview - YouTube](https://www.youtube.com/watch?v=-630YTQEuCI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=11)
+- [S01.1 Sets - YouTube](https://www.youtube.com/watch?v=47W1ApSRUqs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=12)
+- [S01.2 De Morgan's Laws - YouTube](https://www.youtube.com/watch?v=pdR9hV8mRWE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=13)
+- [S01.3 Sequences and their Limits - YouTube](https://www.youtube.com/watch?v=kuhlfBPQPq0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=14)
+- [S01.4 When Does a Sequence Converge - YouTube](https://www.youtube.com/watch?v=Lgacew5BjDI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=15)
+- [S01.5 Infinite Series - YouTube](https://www.youtube.com/watch?v=nYe4OZVCnIs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=16)
+- [S01.6 The Geometric Series - YouTube](https://www.youtube.com/watch?v=cCmWW7Hu43A&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=17)
+- [S01.7 About the Order of Summation in Series with Multiple Indices - YouTube](https://www.youtube.com/watch?v=9QJt03983Gg&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=18)
+- [S01.8 Countable and Uncountable Sets - YouTube](https://www.youtube.com/watch?v=MqocbJ-FPo0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=19)
+- [S01.9 Proof That a Set of Real Numbers is Uncountable - YouTube](https://www.youtube.com/watch?v=YIZd23zGV3M&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=20)
+- [S01.10 Bonferroni's Inequality - YouTube](https://www.youtube.com/watch?v=0xuRh3dz_Nc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=21)
+
 ---
 ### Linkups - Module 8
 
@@ -1244,6 +1306,45 @@ note-taking system for easier navigation.
 - 7.4 - Conditional Probability
 - 7.5 -  Independent Events
 
+[[0113.000 - Probability and Random Variables]]
+- Sessions 6-7
+
+[[0113.001 - A First Course on Probability]]
+- 3 - Conditional Probability and Independence (*entire chapter*)
+
+[[0113.002 - Statistical Inference]]
+- 1.3 - Conditional Probability and Independence
+
+[[0113.003 - Introduction to Probability (Lecture Series)]]
+- [L02.1 Lecture Overview - YouTube](https://www.youtube.com/watch?v=B5y6fy5iUtg&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=22)
+- [L02.2 Conditional Probabilities - YouTube](https://www.youtube.com/watch?v=MPRKc4UPoJk&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=23)
+- [L02.3 A Die Roll Example - YouTube](https://www.youtube.com/watch?v=YenDB3yOfDc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=24)
+- [L02.4 Conditional Probabilities Obey the Same Axioms - YouTube](https://www.youtube.com/watch?v=L_pEeYLGaP0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=25)
+- [L02.5 A Radar Example and Three Basic Tools - YouTube](https://www.youtube.com/watch?v=uL31gpFdarc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=26)
+- [L02.6 The Multiplication Rule - YouTube](https://www.youtube.com/watch?v=ugzs7dgQ-JE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=27)
+- [L02.7 Total Probability Theorem - YouTube](https://www.youtube.com/watch?v=8odFouBR2wE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=28)
+- [L02.8 Bayes' Rule - YouTube](https://www.youtube.com/watch?v=kz2tvO_ZAKI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=29)
+- [L03.1 Lecture Overview - YouTube](https://www.youtube.com/watch?v=QXKgTPR_8wk&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=30)
+- [L03.2 A Coin Tossing Example - YouTube](https://www.youtube.com/watch?v=rZKUmNvCjis&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=31)
+- [L03.3 Independence of Two Events - YouTube](https://www.youtube.com/watch?v=w423ypsUHf0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=32)
+- [L03.4 Independence of Event Complements - YouTube](https://www.youtube.com/watch?v=JZkT3NU2mPM&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=33)
+- [L03.5 Conditional Independence - YouTube](https://www.youtube.com/watch?v=7B3cDe39lwY&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=34)
+- [L03.6 Independence Versus Conditional Independence - YouTube](https://www.youtube.com/watch?v=TAyA-rjmesQ&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=35)
+- [L03.7 Independence of a Collection of Events - YouTube](https://www.youtube.com/watch?v=UbQcqFH33G0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=36)
+- [L03.8 Independence Versus Pairwise Independence - YouTube](https://www.youtube.com/watch?v=aJXfyfQs2Mc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=37)
+- [L03.9 Reliability - YouTube](https://www.youtube.com/watch?v=UDkq_cLVSmc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=38)
+- [L03.10 The King's Sibling - YouTube](https://www.youtube.com/watch?v=iPWyElxtk-8&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=39)
+- [L04.1 Lecture Overview - YouTube](https://www.youtube.com/watch?v=poeHeiiiLKI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=40)
+- [L04.2 The Counting Principle - YouTube](https://www.youtube.com/watch?v=-k8WU-KB0rk&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=41)
+- [L04.3 Die Roll Example - YouTube](https://www.youtube.com/watch?v=KrjZyCRi29o&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=42)
+- [L04.4 Combinations - YouTube](https://www.youtube.com/watch?v=o_qO7RYBF10&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=43)
+- [L04.5 Binomial Probabilities - YouTube](https://www.youtube.com/watch?v=8llkkbCPHb4&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=44)
+- [L04.6 A Coin Tossing Example - YouTube](https://www.youtube.com/watch?v=2f9EfEga4Oo&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=45)
+- [L04.7 Partitions - YouTube](https://www.youtube.com/watch?v=hJjiCrdsNV8&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=46)
+- [L04.8 Each Person Gets An Ace - YouTube](https://www.youtube.com/watch?v=IC-pnm6PEGk&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=47)
+- [L04.9 Multinomial Probabilities - YouTube](https://www.youtube.com/watch?v=5A_H1eHbOCY&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=48)
+
+
 ---
 ### Linkups - Module 9
 
@@ -1260,9 +1361,6 @@ note-taking system for easier navigation.
 - 6.33 - Random Variables
 - 6.34 - Expectation
 
-[[0109.003 - Discrete Mathematics - TrevTutor]] - YTM_DMTT
-- None
-
 [[0109.004 - Discrete Mathematics (Chartrand and Zhang)]] - MATHB_DMCZ
 - 10.3 - Random Variables and Expected Values
 
@@ -1275,3 +1373,74 @@ note-taking system for easier navigation.
 
 [[0109.104 - Schaum’s Outline of Discrete Mathematics]] - MATHB_SOofDM
 - 7.7 - Random Variables
+
+[[0113.000 - Probability and Random Variables]]
+- Sessions 8-9
+
+[[0113.001 - A First Course on Probability]]
+- 4.1 - Random Variables
+- 4.2 - Discrete Random Variables
+- 4.3 - Expected Value
+- 4.4 - Expectation of a Function of a Random Variable
+
+[[0113.002 - Statistical Inference]]
+- 1.4 - Random Variables
+
+[[0113.003 - Introduction to Probability (Lecture Series)]]
+- [L05.1 Lecture Overview - YouTube](https://www.youtube.com/watch?v=ArfHGPHL8kU&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=49)
+- [L05.2 Definition of Random Variables - YouTube](https://www.youtube.com/watch?v=vfqPpai_9jI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=50)
+- [L05.3 Probability Mass Functions - YouTube](https://www.youtube.com/watch?v=zW1_iugJvF0&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=51)
+- [L05.4 Bernoulli & Indicator Random Variables - YouTube](https://www.youtube.com/watch?v=J8L9kRGSvSY&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=52)
+- [L05.5 Uniform Random Variables - YouTube](https://www.youtube.com/watch?v=JoQDJMZA7F8&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=53)
+- [L05.6 Binomial Random Variables - YouTube](https://www.youtube.com/watch?v=jOC4ATKBWlI&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=54)
+- [L05.7 Geometric Random Variables - YouTube](https://www.youtube.com/watch?v=whbKmwMmB4s&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=55)
+- [L05.8 Expectation - YouTube](https://www.youtube.com/watch?v=_yJsO5955ZE&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=56)
+- [L05.9 Elementary Properties of Expectation - YouTube](https://www.youtube.com/watch?v=GARQ31BrKQA&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=57)
+- [L05.10 The Expected Value Rule - YouTube](https://www.youtube.com/watch?v=gB5TCCfF6e4&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=58)
+- [L05.11 Linearity of Expectations - YouTube](https://www.youtube.com/watch?v=0IJFBMIU6x4&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=59)
+- [S05.1 Supplement: Functions - YouTube](https://www.youtube.com/watch?v=Xwd4ABlO0Dc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=60)
+
+
+---
+### Linkups - Module 10
+
+[[0109.000 - Discrete Mathematics and its Applications]] - MATHB_DMA
+- 7.4 - Expected Value and Variance
+
+[[0113.000 - Probability and Random Variables]]
+- Sessions 10-11
+
+[[0113.001 - A First Course on Probability]]
+- 4.5 - Variance
+- 4.6 - The Bernoulli and Binomial Random Variables
+
+[[0113.002 - Statistical Inference]]
+- 1.5 - Distribution Functions
+- 2.1 - Distributions of Functions of a Random Variable
+- 2.2 - Expected Values
+- 2.3 - Moments and Moment Generating Functions
+- **Optionally**:
+	- 1.6 - Density and Mass Functions
+	- 2.4 - Differentiating Under an Integral Sign
+
+[[0113.003 - Introduction to Probability (Lecture Series)]]
+- [L06.1 Lecture Overview - YouTube](https://www.youtube.com/watch?v=n9FTM9f9A6I&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=61)
+- [L06.2 Variance - YouTube](https://www.youtube.com/watch?v=ZWo1XgAQE5k&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=62)
+- [L06.3 The Variance of the Bernoulli & The Uniform - YouTube](https://www.youtube.com/watch?v=7_livg-uaVs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=63)
+- [L06.4 Conditional PMFs & Expectations Given an Event - YouTube](https://www.youtube.com/watch?v=2_KBeHiUDiY&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=64)
+- [L06.5 Total Expectation Theorem - YouTube](https://www.youtube.com/watch?v=GnEyIawrWBg&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=65)
+- [L06.6 Geometric PMF Memorylessness & Expectation - YouTube](https://www.youtube.com/watch?v=MuqLI4otMIQ&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=66)
+- [L06.7 Joint PMFs and the Expected Value Rule - YouTube](https://www.youtube.com/watch?v=7nu97OYx4X4&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=67)
+- [L06.8 Linearity of Expectations & The Mean of the Binomial - YouTube](https://www.youtube.com/watch?v=TbRh71BMJvw&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=68)
+- [L07.1 Lecture Overview - YouTube](https://www.youtube.com/watch?v=17Z89x_ZWQ4&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=69)
+- [L07.2 Conditional PMFs - YouTube](https://www.youtube.com/watch?v=T_Q3M_HV94w&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=70)
+- [L07.3 Conditional Expectation & the Total Expectation Theorem - YouTube](https://www.youtube.com/watch?v=vJAG4EzSQZA&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=71)
+- [L07.4 Independence of Random Variables - YouTube](https://www.youtube.com/watch?v=F6H50Hbulbk&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=72)
+- [L07.5 Example - YouTube](https://www.youtube.com/watch?v=JsEvwRGa1JA&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=73)
+- [L07.6 Independence & Expectations - YouTube](https://www.youtube.com/watch?v=R4nGGs0m7lo&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=74)
+- [L07.7 Independence, Variances & the Binomial Variance - YouTube](https://www.youtube.com/watch?v=YQ26hzI4OJk&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=75)
+- [L07.8 The Hat Problem - YouTube](https://www.youtube.com/watch?v=Kycmb2IwV-Y&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=76)
+- [S07.1 The Inclusion-Exclusion Formula - YouTube](https://www.youtube.com/watch?v=WXIU2tK4qtc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=77)
+- [S07.2 The Variance of the Geometric - YouTube](https://www.youtube.com/watch?v=sSWHT2kbkvc&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=78)
+- [S07.3 Independence of Random Variables Versus Independence of Events - YouTube](https://www.youtube.com/watch?v=GOmLwHaa8Ik&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=79)
+
