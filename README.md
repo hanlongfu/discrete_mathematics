@@ -132,7 +132,7 @@ note-taking system for easier navigation.
 			- Very easy to follow.
 			- All solutions provided in textbook.
 		- Cons:
-			- None
+			- Moderate emphasis on calculus
 - **A Tier**
 	- [[0109.000 - Discrete Mathematics and its Applications]]- MATHB_DMA
 	- [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
