@@ -68,6 +68,13 @@ note-taking system for easier navigation.
 - **Solutions**: For few select problems
 - best read in order, no linkups provided yet
 
+[[0110.001 - Book of Proofs]] - MATHB_BoP
+- **Title**: Book of Proofs
+- **Author**: Richard Hammack
+- **Edition**: 3rd
+- **Solutions**: For all problems
+- no linkups provided yet
+
 [[0113.000 - Probability and Random Variables]]
 - **Title**: Probability and Random Variables (MITOCW)
 - **Author**: Prof. Scott Sheffield
@@ -97,19 +104,21 @@ note-taking system for easier navigation.
 
 ### Personal Tier List (so far)
 
+#### Exam 1 (Modules 1-6) - Counting, Proofs, Terminology, & Notation
+
 - **S Tier**
 	- [[0109.001 - Discrete Mathematics with Applications]] - MATHB_DMwA
 		- Pros:
 			- Great explanations.
+			- Goes over many different examples of proofs
 			- Self-test questions help reinforce material as you’re reading.
 			- Many practice problems of varying difficulty
 		- Cons:
-			- Doesn’t cover everything
 			- Most solutions available (with solution manual), but not all
 	- [[0109.004 - Discrete Mathematics (Chartrand and Zhang)]] - MATHB_DMCZ
 		- Pros:
-			- Covers quite a bit
-			- Great explanations with plenty of examples to go with them
+			- Simple, easy to read.
+			- Great explanations with many examples to go with them
 		- Cons:
 			- Solutions manual difficult to find. Answers/hints to odd-numbered exercises provided but not always to great detail.
 	- [[0109.003 - Discrete Mathematics - TrevTutor]] - YTM_DMTT
@@ -118,6 +127,12 @@ note-taking system for easier navigation.
 			- Often in line with course content
 		- Cons:
 			- Does not cover everything
+	- [[0110.001 - Book of Proofs]] - MATHB_BoP
+		- Pros:
+			- Very easy to follow.
+			- All solutions provided in textbook.
+		- Cons:
+			- None
 - **A Tier**
 	- [[0109.000 - Discrete Mathematics and its Applications]]- MATHB_DMA
 	- [[0109.002 - Mathematics - A Discrete Introduction]] - MATHB_MADI
